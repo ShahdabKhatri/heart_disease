@@ -3,7 +3,7 @@ import pandas as pd
 import pickle
 
 st.write("""
-# Simple Hear Disease Prediction
+# Simple Heart Disease Prediction
 
 This app predicts the **Heart disease** !
 """)
