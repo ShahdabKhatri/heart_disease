@@ -3,9 +3,9 @@ import pandas as pd
 import pickle
 
 st.write("""
-# Simple Breast Cancer Detection App
+# Simple Hear Disease Prediction
 
-This app predicts the **Breast Cancer** type!
+This app predicts the **Heart disease** !
 """)
 
 st.header('User Input Parameters')
